@@ -67,7 +67,6 @@ a{
     color: black;
     margin-left:110px;
     cursor: pointer;
-
 }
 
 
@@ -83,6 +82,7 @@ a{
     cursor: pointer;
 
 }
+
 #buttonL:hover{
     background-color:#3B3A57 ;
 }
